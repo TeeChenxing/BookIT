@@ -2,7 +2,7 @@
   BookIT App
 </h1>
 
-This app was created with the purpose to service small business owners in the Hair Salon industry to store data about their customers, appointments and staff.  
+This app was created with the purpose to service small business owners in the hair salon industry to store data about their customers, appointments and staff.  
 
 ### How to setup and start the containers
 **Important** - you need Docker Desktop installed
